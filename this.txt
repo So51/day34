@@ -1,0 +1,6 @@
+document.write(this == window );
+a = 37;
+document.write("<br>"+window.a); 
+this.b = "it is mine";
+document.write("<br>"+window.b);
+document.write("<br>"+b); 
